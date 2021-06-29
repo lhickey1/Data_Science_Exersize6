@@ -1,0 +1,13 @@
+name: covid_app
+title: covid_app
+username:
+account: laurelh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4331748
+bundleId: 4766941
+url: https://laurelh.shinyapps.io/covid_app/
+when: 1624933191.73339
+lastSyncTime: 1624933191.73341
+asMultiple: FALSE
+asStatic: FALSE
